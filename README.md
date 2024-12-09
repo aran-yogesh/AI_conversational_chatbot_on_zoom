@@ -1,7 +1,3 @@
-<img width="1440" alt="Screenshot 2024-12-08 at 4 24 28 PM" src="https://github.com/user-attachments/assets/04b443ff-c13d-47ee-a94c-4c08b46395ba"># AI Conversational ChatBot on Zoom 🤖
-
-Traditionally, Zoom has been my go-to for online meetings. 🧑‍💻 However, I've taken it a step further by integrating an AI chatbot into the platform—imagine having a bot that can assist with inquiries during meetings, a handy tool for any student, especially during those less engaging moments! 🎓
-
 ✨ An **Intelligent AI ChatBot** 
 
 that provides helpful responses to user queries on a wide range of topics within their Zoom conversation discussions by using Cerebras' advanced language models on the Zoom Developers’ platform.😊
