@@ -46,11 +46,8 @@ ngrok http http://localhost:4000
 
 * Create an account on the zoom, Login to Zoom Marketplace. And Assign a name to the Bot.
 
- <img width="1446" alt="Screenshot 2024-11-16 at 2 07 23 AM" src="https://github.com/user-attachments/assets/d024c815-a688-4513-a6fd-ebc17f71cc51">
 
 * Click on Build App.
-
-   <img width="565" alt="Screenshot 2024-11-16 at 2 04 16 AM" src="https://github.com/user-attachments/assets/1bf0ec89-2567-45a7-a52d-ce3a342f18d9">
 
 * In the surface section, Select where to use that app.
 
