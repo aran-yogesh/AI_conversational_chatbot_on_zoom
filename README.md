@@ -21,7 +21,8 @@ So, Shall we start?
 
 ### 1.  Let’s Download or update Zoom, If you haven’t:
 
-<img width="1470" alt="Screenshot 2024-11-16 at 2 34 14 AM" src="https://github.com/user-attachments/assets/f6832d9b-68e4-4386-87e7-47c1a3b3e51d">
+![Screenshot 2024-12-08 at 4 34 31 PM (2)](https://github.com/user-attachments/assets/de1cbbde-d5c4-4cc8-b475-d8cdf8a45b8d)
+
 
 
 ### 2. Steps to download Ngrok:
