@@ -1,21 +1,18 @@
-# AI Conversational ChatBot on Zoom 🤖
+<img width="1440" alt="Screenshot 2024-12-08 at 4 24 28 PM" src="https://github.com/user-attachments/assets/04b443ff-c13d-47ee-a94c-4c08b46395ba"># AI Conversational ChatBot on Zoom 🤖
 
-For me, Zoom was just for meetings.🧑‍💻 I never imagined that I would build an AI Chatbot on it. Isn’t it amazing to have a bot that can assist you with your queries during virtual meetings (especially when you're sleeping in between the meetings)? 🎓 I'm a student. So if you ask me, yes!!! It is a crazy thing. 
-That’s what my next project is about!!
-
-🤔 I built another AI chatbot, (oh, wait)...
+Traditionally, Zoom has been my go-to for online meetings. 🧑‍💻 However, I've taken it a step further by integrating an AI chatbot into the platform—imagine having a bot that can assist with inquiries during meetings, a handy tool for any student, especially during those less engaging moments! 🎓
 
 ✨ An **Intelligent AI ChatBot** 
 
 that provides helpful responses to user queries on a wide range of topics within their Zoom conversation discussions by using Cerebras' advanced language models on the Zoom Developers’ platform.😊
 
-## Functionalities:
+## Core Features:
 
-* Respond to user messages in Zoom Team Chat using Cerebras' language models.
-* Maintains conversation history for context-aware responses.
-* Can be used in direct messages or invoked in group chats and channels.
-* Provides helpful information, answers questions, assists with tasks, and engages in discussions on various topics with exceptional speed and accuracy.
-* In the end, I will share my experience on how My Bot assisted me during the project when I got stuck.
+Real-Time Responses: Engages with messages in Zoom Team Chat, offering instant replies.
+Contextual Awareness: Keeps track of conversation history to provide context-aware responses.
+Versatile Use: Operates in direct messages or within group chats and channels.
+Speed and Precision: Delivers information and assists with tasks efficiently and accurately.
+Through this project, I’ve also had the chance to experience firsthand how AI can be a supportive companion. More on that below!
 
 ## Architecture:
 
@@ -122,14 +119,13 @@ ngrok http http://localhost:4000
 
      refer //cerebras.js file.
 
-### 8. What next?
+### 8. What’s Next?
 
-Nothing, Your Conversational ChatBot is ready!!! 
+The Conversational ChatBot is ready to enhance Zoom Team Chats with intelligent interactions!
 
-This chatbot will now have a conversation history, which will enable it to end up being more logical and less awkward. As a part of the code, previous messages are saved in memory and attached each time to the subsequent requests to the Cerebras API. This will help the AI to grasp the flow of the conversation and be able to recall what has been said before in the conversation.
+See it in action:
 
-
-* You can also launch your app in Zoom Team Chat with configured shortcuts that will trigger the defined action.
+Your AI chatbot responding in Zoom (consider replacing this image with an updated screenshot that demonstrates the chatbot’s capabilities.)
   
 
   <img width="714" alt="Screenshot 2024-11-16 at 2 12 41 AM" src="https://github.com/user-attachments/assets/003bfbb0-f72f-4b8e-ab09-902675bcac3b">
@@ -142,11 +138,8 @@ This chatbot will now have a conversation history, which will enable it to end u
 
 
 
-You know, what was the best part?
-I was stuck in between the coding part, my Bot motivated me by saying kind words. 
 
-
-<img width="1181" alt="Screenshot 2024-11-16 at 2 24 06 AM" src="https://github.com/user-attachments/assets/387ca009-a338-47ed-b2d2-bbb779058da1">
+<img width="1440" alt="Screenshot 2024-12-08 at 4 24 28 PM" src="https://github.com/user-attachments/assets/3bade701-4ab6-4d62-9179-7b75edef0e86">
 
 
 
